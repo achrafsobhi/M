@@ -1,0 +1,129 @@
+
+body{background-color: #affdd6;
+}
+
+.header ul {border:1px dashed black
+    list-style: none;
+    margin-top:25px;
+   
+    font-size: 18px;
+    text-align:center;
+    margin-bottom:30px;}
+    header li {display: inline;
+      border-radius: 8px;
+    border: px solid gold;
+    background-color:affdd6;
+    ;
+    margin-right: 120px;
+    font-family: "Outfit", sans-serif;
+    width:70%;
+    }
+    header a {text-decoration: none;
+    color:rgb(0, 0, 0);
+    }
+    .autre:hover{text-decoration: underline;
+    background-color: rgb(190, 146, 128);
+    padding: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 8px;
+    box-shadow: 5px 3px 15px 10px rgb(163, 147, 179);}
+    
+
+
+.acc{background-color: rgb(190, 146, 128);
+    padding: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 8px;}
+.presentation {
+    background-color: #affdd6;
+    border: 1px dashed rgb(0, 0, 0);
+    box-shadow: 5px 10px 15px 10px rgb(163, 147, 179);
+border-radius: 8px;
+display: flex;
+align-items: flex-start;
+padding: 20px;
+max-width: 950px;
+margin: 0 auto;
+}
+.presentation:hover{;
+    box-shadow: 5px 10px 15px 10px rgb(134, 109, 158);}
+.presentation h1 {font-family: "Edu AU VIC WA NT Pre", cursive;
+    
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 10px;
+font-size: 80px;}
+.ktba {border: 0px solid;
+font-family: "Rajdhani", sans-serif;
+font-size: 20px;
+margin-top: 0%;
+margin-left: 10px;
+margin-bottom: 0px;}
+.ktba a{text-decoration: none;
+color: red;}
+.ktba a:hover{font-weight: bold;
+text-decoration: underline;
+}
+
+.image-content img {
+    box-shadow: 5px 10px 10px 5px rgb(134, 102, 165);
+    border:none;
+width: 400px;
+text-align: center; 
+height: auto;
+border-radius: 15px rgb(134, 102, 165);
+
+}
+.social-media {;
+    display: inline;
+    ;
+    ;
+    max-width: 1000px;
+    margin-left:400px;
+    margin-top: 150px
+    
+}
+.social-media img{ width: 50px;
+}
+.social-media a:hover{text-decoration-style: double;
+    background-color: rgb(190, 146, 128);
+    box-shadow: 5px 10px 15px 10px rgb(163, 147, 179);
+    padding: 15px;
+    padding-top: 50px;
+    border-radius: 8;
+}
+.footer {list-style: none;
+font-size: 18px}
+.footer div{;
+    
+   
+    max-width: 200px;
+    list-style: none;
+    
+   
+    font-size: 18px;
+    text-align:center;
+    
+    
+
+    display: inline;
+    
+border: px solid gold;
+background-color:affdd6;
+;
+margin-right: 120px;
+font-family: "Outfit", sans-serif;
+    
+}.footer div h6{margin-bottom: 0cm;
+font-weight: bold;
+font-family: "Outfit", sans-serif;
+font-size: 20px;
+}
+.politique p{font-size: 22px;
+
+color: rgb(0, 0, 0);}
+
+      

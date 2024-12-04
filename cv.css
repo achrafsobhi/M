@@ -1,0 +1,199 @@
+.bodyy {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #affdd6;
+    color: #000;
+    margin: 25px;
+    width: auto;
+;}
+    
+header ul {border:1px dashed black
+    list-style: none;
+    margin-left:auto;
+   
+    font-size: 20px;
+    text-align:center;
+    padding-top:0px;
+    margin-top:0px;
+    margin-bottom:30px;
+    
+    
+}
+header li {display: inline;
+    border-radius: 8px;
+
+background-color:affdd6;
+;
+margin-right: 120px;
+font-family: "Outfit", sans-serif;
+width:70%;
+}
+header a {text-decoration: none;
+color:rgb(0, 0, 0);
+}
+.autre:hover{text-decoration: underline;
+background-color: rgb(190, 146, 128);
+padding: 15px;
+padding-right: 30px;
+padding-left: 30px;
+border-radius: 8px;
+box-shadow: 5px 3px 15px 10px rgb(163, 147, 179);}
+.cv {background-color: rgb(190, 146, 128);
+    padding: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 8px;
+    }
+
+    
+  
+    main {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        border:1px dashed black;
+    }
+    main:hover{;
+        box-shadow: 5px 10px 15px 10px rgb(134, 109, 158);}
+    
+    h2 {
+        font-size: 1.8em;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    
+    h3 {
+        font-size: 1.5em;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .experience {
+        margin-top: 20px;
+    }
+    
+    .job {
+        margin-bottom: 30px;
+    }
+    
+    .date {
+        font-size: 16px;
+        font-weight: bold;
+        color: #333;
+    }
+    
+    h4 {
+        font-size: 1.2em;
+        margin: 5px 0;
+    }
+
+.lecv{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #000;
+    text-transform: uppercase;
+    text-align:center;}
+    
+    
+      
+    
+      }
+      
+      
+      .cv-header {
+        text-align: center;
+        margin-bottom: 40px;
+      }
+      
+      .cv-header h1 {
+        font-size: 32px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        color: #000;
+      }
+      
+      .cv-section {
+        margin: 40px 0;
+        border-top: 1px solid #ddd;
+        padding-top: 20px;
+        border:1px dashed black;
+        padding: 5px;
+        margin-left: 215px;
+        margin-right: 215px;
+
+      }
+    .cv-section:hover{;
+        box-shadow: 5px 10px 15px 10px rgb(134, 109, 158);}
+      .cv-section h2 {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        color: #000;
+        text-transform: uppercase;
+        align-items: center;
+      }
+      
+      .cv-item {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+      }
+      
+      .cv-dates {
+        width: 20%;
+        font-weight: bold;
+        color: #333;
+        text-align: right;
+        
+      }
+      
+      .cv-details {
+        width: 75%;
+      }
+      
+      .cv-details h3 {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 5px;
+      }
+      
+      .cv-details p {
+        font-size: 16px;
+        color: #555;
+      }
+      
+      .skills-list{text-align: center;}
+      .langues{
+    margin-right:  40px;}
+      }
+      .footer {list-style: none;
+        font-size: 18px}
+        .footer div{;
+            
+           
+            max-width: 200px;
+            list-style: none;
+            
+           
+            font-size: 18px;
+            text-align:center;
+            
+            
+        
+            display: inline;
+            
+        border: px solid gold;
+        background-color:affdd6;
+        ;
+        margin-right: 120px;
+        font-family: "Outfit", sans-serif;
+            
+        }.footer div h6{margin-bottom: 0cm;
+        font-weight: bold;
+        font-family: "Outfit", sans-serif;
+        font-size: 20px;
+        }
+        .politique p{font-size: 22px;
+        
+        color: rgb(0, 0, 0);}
